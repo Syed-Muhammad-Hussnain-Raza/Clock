@@ -6,3 +6,8 @@
   margin: 20px 20px;
   text-align: center;
 }
+
+.appContent {
+  display: flex;
+  flex-direction: column;
+}
