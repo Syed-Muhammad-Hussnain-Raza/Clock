@@ -55,3 +55,7 @@ For providing essential guidelines and concepts crucial to building dynamic UIs.
 ### [Vite](https://vitejs.dev/)
 
 For enabling a fast and efficient development experience with its modern build tool and hot module replacement.
+
+## Author
+
+### **Syed Muhammad Hussnain Raza | [LinkedIn](https://www.linkedin.com/in/syed-muhammad-hussnain-raza/)**
